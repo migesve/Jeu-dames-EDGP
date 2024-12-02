@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Calu12/JeuDame-Espinal-Genevey-Philippe-DiMalta.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Cybermiam/JeuDameServer
